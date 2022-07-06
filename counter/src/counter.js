@@ -36,12 +36,3 @@ const Counter = () =>
 export default Counter;
 
 
-// const store = React.createstore(reducer,initialState);
-// const reducer = (state,action) =>
-// {
-
-// }
-// store.getState();
-// export connect(x)(component);
-// x = mapStateToProps || mapDispatchToProps;
-// mapStateToProps(state(store) , ownProps(optional));
